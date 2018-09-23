@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="@color/colorb"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Main3Activity"
+    tools:ignore="ExtraText">
+        xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        >
+
+        <TextView
+            android:id="@+id/start"
+            android:layout_width="308dp"
+            android:layout_height="123dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="125dp"
+            android:gravity="center"
+            android:text="اضغط Start لبدأ أختبار اهلاوي"
+            android:textColor="@color/colorText"
+            android:textSize="30sp"
+            android:textStyle="bold"
+            tools:ignore="InvalidId"
+            tools:layout_editor_absoluteX="38dp"
+            tools:layout_editor_absoluteY="81dp" />
+
+        <Button
+            android:id="@+id/startbt"
+            style="@style/Base.Widget.AppCompat.Button.Borderless"
+            android:layout_width="150dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="120dp"
+            android:background="@drawable/start_all"
+            android:text="Start"
+            android:onClick="StartOn"
+            android:textColor="@color/colorText"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:ignore="OnClick" />
+
+</RelativeLayout>

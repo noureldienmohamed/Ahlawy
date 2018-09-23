@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ahlawy</string>
+    <string name="true_button">صحيح</string>
+    <string name="false_button">خطأ</string>
+    <string name="initial_score">Score 0/13</string>
+    <string name="incorrect_toast">خطأ!</string>
+    <string name="correct_toast">صح!</string>
+    <string name="question_1">للاهلي 36 كاس مصر</string>
+    <string name="question_2">حصل الاهلي على كأس الكونفدراليه مرتين</string>
+    <string name="question_3">حصل الاهلي على الدوري المصري 40 مره </string>
+    <string name="question_4">حصل الاهلي على دوري الابطال 8 مرات</string>
+    <string name="question_5">حصل الاهلي على 6 كأس السوبر المصري  </string>
+    <string name="question_6">للاهلي 5 كأس السوبر الافريقي </string>
+    <string name="question_7">شارك الاهلي في كأس العالم للانديه 6 مرات </string>
+    <string name="question_8">حقق مانويل جوزيه 21 بطوله مع الاهلي </string>
+    <string name="question_9">سجل الخطيب مع الاهلي في الدوري المصري 108 هدف </string>
+    <string name="question_10">حصل حسام عاشور مع الاهلي على 33 بطوله  </string>
+    <string name="question_11">ثابت البطل اكثر اللاعبين مشاركه في القمه المصرية </string>
+    <string name="question_12">فاز ابو تريكه بلقب هداف الدوري الممتاز لعام 2005</string>
+    <string name="question_13">تأسس الاهلي عام 1907</string>
+
+</resources>
